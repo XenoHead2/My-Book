@@ -1,0 +1,44 @@
+People
+
+Veridia's People
+
+Solan/Vira Family:
+
+- Kael Solan, Son of Vira:
+  The protagonist, a gifted anomaly living in secret, whose very existence threatens
+   Veridia's perfect order
+  
+- Varyn Vira (Daughter of Preen): 
+  Kael's mother, a brilliant, driven biologist whose research into Dorin's ancient past leads her to 
+  the city's greatest secret.
+  
+- Corvin Solan (Son of Bitron): 
+  Kael's father, a high-ranking, brilliant mechanical engineer solely responsible for maintaining the 
+  vital Nanoweave Shield and upholding the city's flawless regime.
+  
+- Rixie Solan-Vira: Kael's metallic sister (identifies as female); a small, highly intelligent, floating
+   Vigilae unit and Kael's devoted confidante.
+  
+- Gus: Corvin's outdated Vigilae model and personal assistant bot, restored byKael
+   Has old knowledge of the family's and planet’s history.
+  Aethel Family:
+  
+  - Zandil Aethel (Son of Marin): An eccentric, elderly genius who lives in seclusion, illegally pioneering quantum physics from his chaotic basement lab.
+  - Trindl Aethel: A highly advanced Vigilae unit who serves as Zandil's pragmatic, deeply supportive life and lab partner.
+
+Sirana’s People
+ * Feloc Lintal - Head of Theoretical Physics and Subatomic Engineering. 
+He represents the high-level, theoretical skepticism of Sirana's scientific establishment. 
+His job is to grasp the complex, non-local quantum mechanics behind the QEDs 
+(Quantum Entanglement Devices) and approve them on a scientific basis. 
+He is focused on the why and how of the entanglement process itself.
+ * Daran - Senior Communications Engineer (Wizened, Aged Dorinian)
+ He represents the practical, infrastructure side. 
+His job is the massive undertaking of integrating the new quantum channels and signal
+ strings into Sirana's existing, non-quantum Visiveiw Comms network without shutting the 
+city down. 
+He is focused on the hardware and integration.  
+Lyra - Subatomic Theorist (Young Woman, Sharp-Eyed)
+She represents the analytical and verification side. 
+Her job is to scrutinize every data point and postulate that Conduit presents, ensuring the claims are plausible, and testing the principles of quantum mechanics on a smaller scale before integration. She is focused on the proof and testing.
+ * Llara
