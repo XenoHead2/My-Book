@@ -1,18 +1,24 @@
 @echo off
 
-echo Stage all changes in whitelisted folders
-git add .
-
-echo Commit with a timestamped message
-set msg=Update: %date% %time%
-git commit -m "%msg%"
-
-echo Push to GitHub
-git push origin main
-
 echo Writing Date/Time stamp
 echo %date% - %time% >lastupdate.txt
 
+echo Ensure we are on the 'main' branch
+git branch -M main
+
+echo Sync with GitHub first
+git pull origin main --rebase
+
+echo Stage changes based on your .gitignore 
+git add .
+
+echo Only commit if there are actually changes to avoid errors
+git diff-index --quiet HEAD -- || git commit -m "Update: %date% %time%"
+
+echo Push to the remote repository 
+git push origin main
+
 echo.
-echo Repository updated successfully at %time%
+echo Update process finished at %date% - %time%
+
 pause
